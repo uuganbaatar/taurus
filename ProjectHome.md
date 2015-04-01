@@ -1,0 +1,1 @@
+A stock market simulation software using PHP and MySQL.
